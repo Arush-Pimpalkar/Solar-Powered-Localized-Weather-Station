@@ -35,4 +35,4 @@ Integrate machine learning algorithms to conduct predictive analysis based on hi
 
 Establish a distributed network of monitoring systems to collaboratively aggregate data. This communal approach creates a robust and accurate representation of local weather conditions, fostering collective insights and community-driven meteorological awareness.
 
-The poster for this project can be found [here](https://github.com/Arush-Pimpalkar/Solar-Powered-Localized-Weather-Station/assets/23013777/62c50a3b-73e2-4f16-97a6-96c68473c930)
+The poster for this project can be found [here](https://github.com/Arush-Pimpalkar/Solar-Powered-Localized-Weather-Station/assets/23013777/62c50a3b-73e2-4f16-97a6-96c68473c930).
